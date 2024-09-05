@@ -40,18 +40,20 @@
     "url": "https://mubahasa.pythonanywhere.com",
     "icon": "https://icons.duckduckgo.com/ip3/mubahasa.pythonanywhere.com.ico",
     "slug": "mubahasa",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1193,
     "timeDay": 1193,
     "timeWeek": 1193,
     "timeMonth": 1193,
     "timeYear": 1193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-05": 0
+    }
   },
   {
     "name": "immodded blog",
