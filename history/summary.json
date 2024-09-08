@@ -22,7 +22,7 @@
     "url": "https://animepixels.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/animepixels.onrender.com.ico",
     "slug": "animepixels",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1478,
     "timeMonth": 1478,
     "timeYear": 1478,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   },
   {
     "name": "mubahasa",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mubahasa.pythonanywhere.com.ico",
     "slug": "mubahasa",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.39%",
     "time": 1147,
     "timeDay": 341,
     "timeWeek": 1147,
