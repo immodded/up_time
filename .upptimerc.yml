@@ -5,8 +5,8 @@ repo: up_time # The name of this repository
 sites:
   - name: hanime
     url: https://hanime.onrender.com
-  - name: animepixels
-    url: https://animepixels.onrender.com
+  - name: animeTv
+    url: https://animetv-immoddeds-projects.vercel.app
   - name: mubahasa
     url: https://mubahasa.pythonanywhere.com
   - name: immodded blog
