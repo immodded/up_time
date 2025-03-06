@@ -4,7 +4,7 @@
     "url": "https://hanime.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/hanime.onrender.com.ico",
     "slug": "hanime",
-    "status": "up",
+    "status": "down",
     "uptime": "90.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1890,
     "timeYear": 1261,
     "dailyMinutesDown": {
+      "2025-03-06": 0,
       "2025-02-01": 48,
       "2025-01-31": 1440,
       "2025-01-30": 1440,
@@ -67,7 +68,7 @@
     "timeMonth": 139,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2025-03-06": 112,
+      "2025-03-06": 133,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
@@ -214,7 +215,7 @@
     "timeMonth": 162,
     "timeYear": 400,
     "dailyMinutesDown": {
-      "2025-03-06": 112,
+      "2025-03-06": 133,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
